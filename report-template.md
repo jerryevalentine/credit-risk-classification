@@ -9,7 +9,7 @@ In this section, describe the analysis you completed for the machine learning mo
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
   
 
-Here is an inline image ![Inline Image](https://example.com/path/to/inline-image.jpg) in a sentence.
+![My Image](statistics.PNG)
 
 
 * Describe the stages of the machine learning process you went through as part of this analysis.
