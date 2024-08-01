@@ -1,10 +1,7 @@
-# Module 12 Report Template
+# Supervised Learning - Credit Risk Classification
 
 ## Overview of the Analysis
-
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
-* Explain the purpose of the analysis - this analysis examines lending data.  A key column seems to be loan_status.  Machine learning examines data and learns patterns in the data.  This can help explain why some loans are in good standing while others are not.
+* This reposity examines lending data.  A key column seems to be loan_status.  Machine learning examines data and learns patterns in the data.  This can help explain why some loans are in good standing while others are not.
 * Explain what financial information the data was on, and what you needed to predict - there are different types of columns, from loan size (characteristics of a loan), borrow income information, and credit items, such as derogatory marks.  The categories of data cover important factors that do impact loan status.
 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
